@@ -2,12 +2,14 @@
   {
     "identification": {
       "msg": "The HTML CDN Works!",
-      "id": "html"
+      "id": "html",
+      "extension": ".html"
     },
     "cdn": {
       "folder": "cdn-data",
       "img": "html.png",
-      "json": "g.json"
+      "json": "g.json",
+      "assets": "true"
     },
     "json": {
       "title": "name",
