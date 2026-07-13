@@ -1,0 +1,19 @@
+[
+  {
+    "identification": {
+      "msg": "The HTML CDN Works!",
+      "id": "html"
+    },
+    "cdn": {
+      "folder": "cdn-data",
+      "img": "html.png",
+      "json": "g.json"
+    },
+    "json": {
+      "title": "name",
+      "list": "order",
+      "identifier": "id",
+      "group": "type"
+    }
+  }
+]
