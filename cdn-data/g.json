@@ -80,5 +80,6 @@
   { "name": "Water Works", "id": "wtrwk", "order": 79, "type": "Water Works" },
   { "name": "Deltarune", "id": "dtune", "order": 80, "type": "Deltarune" },
   { "name": "Undertale", "id": "utale", "order": 81, "type": "Undertale" },
-  { "name": "Undertale Yellow", "id": "ytalu", "order": 82, "type": "Undertale" }
+  { "name": "Undertale Yellow", "id": "ytalu", "order": 82, "type": "Undertale" },
+  { "name": "Don't You Lecture Me", "id": "dylm3", "order": 83, "type": "Don't You Lecture Me" }
 ]
