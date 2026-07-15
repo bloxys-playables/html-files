@@ -77,5 +77,6 @@
   { "name": "Space Huggers", "id": "spchg", "order": 76, "type": "Space Huggers" },
   { "name": "Tomb Of The Mask", "id": "tbtmk", "order": 77, "type": "Tomb Of The Mask" },
   { "name": "Tube Jumpers", "id": "tbjmp", "order": 78, "type": "Tube Jumpers" },
-  { "name": "Water Works", "id": "wtrwk", "order": 79, "type": "Water Works" }
+  { "name": "Water Works", "id": "wtrwk", "order": 79, "type": "Water Works" },
+  { "name": "Deltarune", "id": "dtune", "order": 80, "type": "Deltarune" }
 ]
