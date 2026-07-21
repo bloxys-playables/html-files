@@ -81,5 +81,14 @@
   { "name": "Deltarune", "id": "dtune", "order": 80, "type": "Deltarune" },
   { "name": "Undertale", "id": "utale", "order": 81, "type": "Undertale" },
   { "name": "Undertale Yellow", "id": "ytalu", "order": 82, "type": "Undertale" },
-  { "name": "Don't You Lecture Me", "id": "dylm3", "order": 83, "type": "Don't You Lecture Me" }
+  { "name": "UNDERTALE 10th Anniversary.html", "id": "un101", "order": 83, "type": "Undertale" },
+  { "name": "Don't You Lecture Me", "id": "dylm3", "order": 84, "type": "Don't You Lecture Me" },
+  { "name": "Granny 2", "id": "gran2", "order": 85, "type": "Granny" },
+  { "name": "Granny", "id": "grand", "order": 86, "type": "Granny" },
+  { "name": "Planet Clicker", "id": "planc", "order": 87, "type": "Planet Clicker" },
+  { "name": "Sprunki", "id": "sprun", "order": 88, "type": "Sprunki" },
+  { "name": "Magic Tiles 3", "id": "mt333", "order": 89, "type": "Magic Tiles 3" },
+  { "name": "Sandtris", "id": "sandt", "order": 90, "type": "Sandtris" },
+  { "name": "Jelly Truck", "id": "jello", "order": 91, "type": "Jelly Truck" },
+  { "name": "Minecraft 1.20.1", "id": "1n20n", "order": 83, "type": "Minecraft" },
 ]
